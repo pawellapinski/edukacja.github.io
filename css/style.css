@@ -1,0 +1,124 @@
+
+body{
+    font-family: 'Lato', sans-serif;
+    
+}
+
+/* icons */
+
+.fas {
+	color: white;
+	font-size: 30px;
+
+}
+
+.fa-map-marker-alt{
+	color: red;
+	font-size: 20px;
+}
+
+.fa-phone-alt{
+	color: red;
+	font-size: 20px;
+}
+
+.fa-graduation-cap{
+	font-size: 70px;
+}
+
+.fa-users{
+	font-size: 70px;
+}
+
+.fa-book-open{
+	font-size: 70px;
+
+}
+
+.fa-arrow-circle-right{
+	color: red;
+	font-size: 15px;
+}
+
+.fa-facebook{
+	color: white;
+	font-size: 30px;
+
+}
+
+.fa-instagram{
+	color: white;
+	font-size: 30px;
+
+}
+
+.fa-twitter-square{
+	color: white;
+	font-size: 30px;
+
+}
+
+.fa-arrow-circle-up {
+	color: red;
+	font-size: 30px;
+}
+
+
+/* navbar items */
+
+.navbar{
+	background-color: #36577b;
+}
+
+.navbar-brand {
+	background-color: red;
+}
+
+/* carousel items */
+
+.carousel-inner{
+    
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    max-height: 700px;
+}
+
+
+.carousel-caption1 {
+	position: absolute;
+	
+	bottom: 70%;
+	left: 15%;
+	z-index: 10;
+	padding-top: 20px;
+	/* padding-bottom: 20px; */
+	color: #fff;
+	text-align: left; */
+}
+
+/* Others elements */
+
+#card-left{
+	background-color: #36577b;
+}
+
+#card-right{
+	background-color: #36577b;
+}
+
+.card-deck{
+	margin-top: -16%;
+}
+
+.bottom {
+	background-color: #36577b;
+}
+
+.end {
+	background-color: #36577b;
+}
+
+.hr {
+	 color: white;
+}
