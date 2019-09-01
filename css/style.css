@@ -63,11 +63,15 @@ body{
 	font-size: 30px;
 }
 
+.fa-search {
+	font-size: 22px;
+}
 
 /* navbar items */
 
 .navbar{
 	background-color: #36577b;
+	padding: 0px;
 }
 
 .navbar-brand {
